@@ -1,0 +1,8 @@
+{
+    "SCREENGRAB_REGION": [0, 0, 1366, 737],
+    "SCREENGRAB_DIRECTORY": "output",
+    "DRAW_REGION": [25, 163, 725, 688],
+    "DRAW_SECTION_WAIT_TIME": 0.1,
+    "PAINT_POSITION": [117, 68],
+    "INPUT_FILES": "./input.txt"
+}
